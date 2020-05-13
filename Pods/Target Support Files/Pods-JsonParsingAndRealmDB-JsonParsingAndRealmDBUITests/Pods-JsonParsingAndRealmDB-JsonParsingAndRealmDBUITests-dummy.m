@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_JsonParsingAndRealmDB_JsonParsingAndRealmDBUITests : NSObject
+@end
+@implementation PodsDummy_Pods_JsonParsingAndRealmDB_JsonParsingAndRealmDBUITests
+@end

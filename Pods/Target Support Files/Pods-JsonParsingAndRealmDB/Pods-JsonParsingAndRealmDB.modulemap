@@ -1,0 +1,6 @@
+framework module Pods_JsonParsingAndRealmDB {
+  umbrella header "Pods-JsonParsingAndRealmDB-umbrella.h"
+
+  export *
+  module * { export * }
+}

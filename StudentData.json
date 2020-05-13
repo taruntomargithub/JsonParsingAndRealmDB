@@ -1,0 +1,39 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "Krish",
+      "rollNumber": "102",
+      "age": 18,
+      "class": "10th"
+    },
+    {
+      "id": 2,
+      "name": "Vishal",
+      "rollNumber": "104",
+      "age": 18,
+      "class": "11th"
+    },
+    {
+      "id": 3,
+      "name": "Suman",
+      "rollNumber": "105",
+      "age": 20,
+      "class": "10th"
+    },
+    {
+      "id": 4,
+      "name": "Akash",
+      "rollNumber": "106",
+      "age": 21,
+      "class": "12th"
+    },
+    {
+      "id": 5,
+      "name": "Ankit",
+      "rollNumber": "108",
+      "age": 20,
+      "class": "11th"
+    }
+  ]
+}
